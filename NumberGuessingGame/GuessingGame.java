@@ -58,7 +58,7 @@ public class GuessingGame{
             return "Your guess is too low, try again.\nTry Number: " + counter+ " Round: " +round +" Score: " +score;
         }
         else {
-            return "Your guess is incorrect\nTry Number: " + counter+ "Round: " +round;
+            return "Your guess is incorrect\nTry Number : " + counter+ "Round: " +round;
         }
     }
 }
